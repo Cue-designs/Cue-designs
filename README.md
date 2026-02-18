@@ -52,8 +52,9 @@
 
 ## 🎶 Currently Vibing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=780pbQcnr4AwCeObXAAODx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=38BDF8&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31M5RBWD2klchuhpd7znxvytn744&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=38BDF8&bar_color_cover=true" />
 </p>
+
 
 ---
 
