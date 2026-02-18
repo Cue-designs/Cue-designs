@@ -52,8 +52,17 @@
 
 ## 🎶 Currently Vibing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31M5RBWD2klchuhpd7znxvytn744&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=38BDF8&bar_color_cover=true" />
+  <!-- Live Spotify Widget -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31M5RBWD2klchuhpd7znxvytn744&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=38BDF8&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
+
+<p align="center">
+  <!-- Static Playlist Badge with Gradient -->
+  <a href="https://open.spotify.com/playlist/780pbQcnr4AwCeObXAAODx">
+    <img src="https://img.shields.io/badge/Sleep%20Playlist-%20Sky%20Blue%20→%20Violet-38BDF8?style=for-the-badge&logo=spotify&logoColor=white&labelColor=8B5CF6" alt="Spotify Playlist" />
+  </a>
+</p>
+
 
 
 ---
