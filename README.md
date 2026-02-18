@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cue-designs&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+ <img src="https://github-readme-stats-taupe-kappa-70.vercel.app/api?username=Cue-designs&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cue-designs&theme=tokyonight" alt="GitHub streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cue-designs&theme=tokyo-night" alt="GitHub activity graph" />
 </p>
