@@ -1,0 +1,17 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#9333EA;#FACC15;#38BDF8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#9333EA">
+        <animate attributeName="stop-color" values="#9333EA;#FACC15;#38BDF8;#9333EA" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="#0F172A"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Fira Code" font-size="48" fill="url(#grad)">
+    Cue-designs
+  </text>
+</svg>
