@@ -1,4 +1,5 @@
 <p align="center">
+  <!-- Animated Gradient Banner -->
   <img src="https://raw.githubusercontent.com/Cue-designs/Cue-designs/main/banner.svg" alt="Cue-designs Logo Banner" />
 </p>
 
@@ -14,12 +15,12 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A&color=38BDF8&cacheSeconds=3600&logoAnimation=spin" />
-  <img src="https://img.shields.io/badge/TailwindCSS-9333EA?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F172A&color=9333EA" />
-  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A&color=FACC15" />
-  <img src="https://img.shields.io/badge/CSS-2563EB?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F172A&color=2563EB" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F172A&color=E34F26" />
-  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white&labelColor=0F172A&color=FF7262" />
+  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-9333EA?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -66,4 +67,11 @@
 <p align="center">
   <a href="mailto:cajemma122@gmail.com"><img src="https://img.shields.io/badge/Email-cajemma122%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Cue-designs"><img src="https://img.shields.io/badge/GitHub-Cue--designs-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Cue-designs/Cue-designs/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
