@@ -73,5 +73,6 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Cue-designs/Cue-designs/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Cue-designs/Cue-designs/output/dist/snake.svg" alt="Contribution Snake Animation" />
 </p>
+
