@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Animated Gradient Banner -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.svg" alt="Cue-designs Logo Banner" />
+  <img src="https://raw.githubusercontent.com/Cue-designs/Cue-designs/main/banner.svg" alt="Cue-designs Logo Banner" />
 </p>
 
 ---
@@ -15,14 +14,13 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,css,html,js,figma,git,github,vscode" />
+  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A&color=38BDF8&cacheSeconds=3600&logoAnimation=spin" />
+  <img src="https://img.shields.io/badge/TailwindCSS-9333EA?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F172A&color=9333EA" />
+  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A&color=FACC15" />
+  <img src="https://img.shields.io/badge/CSS-2563EB?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F172A&color=2563EB" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F172A&color=E34F26" />
+  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white&labelColor=0F172A&color=FF7262" />
 </p>
-
-- **React**: Building dynamic web apps with reusable components and hooks  
-- **Vanilla JavaScript**: Writing clean, efficient, and modern JS code  
-- **CSS & Tailwind CSS**: Crafting responsive, beautiful layouts with utility-first approaches  
-- **HTML**: The backbone of every website I build  
-- **Figma**: Designing sleek and intuitive user interfaces  
 
 ---
 
@@ -52,7 +50,7 @@
 
 ## 🎶 Currently Vibing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=38BDF8&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=780pbQcnr4AwCeObXAAODx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=38BDF8&bar_color_cover=true" />
 </p>
 
 ---
