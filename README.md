@@ -97,9 +97,12 @@ I am a detail-oriented **Software Engineer and Front-End Developer** who bridges
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cue-designs/Cue-designs/main/dist/snake.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg">
+    <img alt="Contribution Snake Animation" src="./dist/snake.svg" />
+  </picture>
 </p>
-
 ---
 
 ## 🧩 Beyond the Code
