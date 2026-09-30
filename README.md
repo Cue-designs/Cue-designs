@@ -115,6 +115,7 @@ I am a detail-oriented **Software Engineer and Front-End Developer** who bridges
         <li>🧠 <b>Curiosity:</b> A relentless hunger to learn and evolve.</li>
         <li>🛠️ <b>Creation:</b> The joy of turning abstract ideas into working products.</li>
         <li>🤝 <b>Community:</b> Helping others and sharing knowledge openly.</li>
+        <li> <b>Collarboration </b> Actively seeking patenership and learning opportunities</li>
       </ul>
     </td>
     <td valign="top" width="50%" align="center">
