@@ -94,6 +94,7 @@ I am a detail-oriented **Software Engineer and Front-End Developer** who bridges
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cue-designs&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
+[![Cue-design GitHub stats](https://github-readme-stats.vercel.app/api?username=Cue-designs&show_icons=true&theme=radical)](https://github.com/Cue-designs)
 ## 🐍 Contribution Snake
 
 <p align="center">
