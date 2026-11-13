@@ -1,0 +1,25 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ashutosh00710/github-readme-activity-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          user_name: Cue-designs
+          theme: react-dark
+          bg_color: "0D1117"
+          color: "38BDF8"
+          line: "38BDF8"
+          point: "FFFFFF"
+          hide_border: true
